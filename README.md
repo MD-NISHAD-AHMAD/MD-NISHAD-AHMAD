@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Full Stack Python Developer  
-- ⚡ Building web apps using Python & React  
+- ⚡ Building web apps using HTML, CSS, JavaScript, React, jQuery, Python, Django, MySQL  
 - 🌱 Focused on clean code and real projects  
 - 🚀 Always learning and improving  
 
@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,python,django,mysql,git,github,vscode" />
 </p>
 
 ---
