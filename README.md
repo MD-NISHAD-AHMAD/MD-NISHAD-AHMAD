@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm MD NISHAD AHMAD
+</h1>
 
-<!--
-**MD-NISHAD-AHMAD/MD-NISHAD-AHMAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Full Stack Python Developer from India
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/MD-NISHAD-AHMAD">
+    <img src="https://komarev.com/ghpvc/?username=MD-NISHAD-AHMAD&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💻 Full Stack Python Developer  
+- ⚡ Building web apps using Python & React  
+- 🌱 Focused on clean code and real projects  
+- 🚀 Always learning and improving  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Projects
+
+- 🌐 **Landing Page**  
+- 🎬 **Movie API**
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/MD-NISHAD-AHMAD">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nishad_codes">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nishadahmadm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile. Feel free to explore my repositories!
