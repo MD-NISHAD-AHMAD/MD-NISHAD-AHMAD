@@ -16,16 +16,18 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Python Developer  
-- ⚡ Building web apps using Python & React  
-- 🌱 Focused on clean code and real projects  
-- 🚀 Always learning and improving  
+<p align="center">
+- 💻 Full Stack Python Developer<br>
+- ⚡ Building web apps using Python & React<br>
+- 🌱 Focused on clean code and real projects<br>
+- 🚀 Always learning and improving
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,vscode" />
 </p>
 
@@ -33,25 +35,15 @@
 
 ## 📌 Projects
 
-- 🌐 **Landing Page**  
-- 🎬 **Movie API**
+<p align="center">
+- 🌐 <b>Landing Page</b><br>
+- 🎬 <b>Movie API</b>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/MD-NISHAD-AHMAD">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/nishad_codes">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:nishadahmadm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐ Thanks for visiting my profile. Feel free to explore my repositories!
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-t
