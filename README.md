@@ -11,17 +11,13 @@
   />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm MD NISHAD AHMAD
-</h1>
+<h1 align="center">Hi 👋, I'm MD NISHAD AHMAD</h1>
 
-<h3 align="center">
-  Full Stack Python Developer from India
-</h3>
+<h3 align="center">Full Stack Python Developer from India</h3>
 
 <p align="center">
   <a href="https://github.com/MD-NISHAD-AHMAD">
-    <img src="https://komarev.com/ghpvc/?username=MD-NISHAD-AHMAD&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=MD-NISHAD-AHMAD&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -30,8 +26,8 @@
 ## 👨‍💻 About Me
 
 - 💻 Full Stack Python Developer  
-- ⚡ Building web apps using HTML, CSS, JavaScript, React, jQuery, Python, Django, MySQL  
-- 🌱 Focused on clean code and real projects  
+- ⚡ Working with HTML, CSS, JavaScript, React, jQuery, Python, Django, MySQL  
+- 🌱 Focused on clean code and real-world projects  
 - 🚀 Always learning and improving  
 
 ---
@@ -70,13 +66,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-NISHAD-AHMAD&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MD-NISHAD-AHMAD&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-NISHAD-AHMAD&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=MD-NISHAD-AHMAD&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
-
----
 
 ⭐ Thanks for visiting my profile. Feel free to explore my repositories!
