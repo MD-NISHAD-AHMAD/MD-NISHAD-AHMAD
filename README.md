@@ -80,6 +80,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-NISHAD-AHMAD&layout=compact&theme=tokyonight&hide_border=true"
     width="48%"
   />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-NISHAD-AHMAD&" alt="MD-NISHAD-AHMAD" /></p>
+  
 </p>
 
 ⭐ Thanks for visiting my profile. Feel free to explore my repositories!
