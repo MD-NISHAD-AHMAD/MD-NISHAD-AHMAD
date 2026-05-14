@@ -42,8 +42,27 @@
 
 ## 📌 Projects
 
-- 🌐 **Landing Page**  
-- 🎬 **Movie API**
+### 👟 Campus Shoes Website
+A responsive e-commerce website for shoes with product listings, shopping cart, login, and signup pages.
+
+🔗 Live Demo: https://campus-shoes.netlify.app  
+📂 Repository: https://github.com/MD-NISHAD-AHMAD
+
+---
+
+### 🌦️ WeatherGul
+A weather application that displays real-time weather information using a weather API.
+
+🔗 Live Demo: https://weathergul.netlify.app  
+📂 Repository: https://github.com/MD-NISHAD-AHMAD
+
+---
+
+### 🌿 Nature Blog
+A clean and responsive blog website focused on nature and travel content.
+
+🔗 Live Demo: https://natureblognishad.netlify.app  
+📂 Repository: https://github.com/MD-NISHAD-AHMAD
 
 ---
 
@@ -80,8 +99,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-NISHAD-AHMAD&layout=compact&theme=tokyonight&hide_border=true"
     width="48%"
   />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-NISHAD-AHMAD&" alt="MD-NISHAD-AHMAD" /></p>
-  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-NISHAD-AHMAD" />
 </p>
 
 ⭐ Thanks for visiting my profile. Feel free to explore my repositories!
